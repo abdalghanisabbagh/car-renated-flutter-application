@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617770719886",
+    "project_id": "rentedcar-36b77",
+    "storage_bucket": "rentedcar-36b77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617770719886:android:fc122a36087e41161bc7df",
+        "android_client_info": {
+          "package_name": "com.example.carrented"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617770719886-4tvh644oitacbs6ksgq8a3rl75dotsti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdlDXXYOFSCXQbV_PIbL9g53alFzgvew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617770719886-4tvh644oitacbs6ksgq8a3rl75dotsti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
